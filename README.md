@@ -10,7 +10,7 @@
 
 -----
 
-[ *Go to resource file >> dialog >> mouse Right click >> add ActiveX Control * ]
+[ *Go to resource file >> dialog >> mouse Right click >> add ActiveX Control* ]
 
 ![image](https://user-images.githubusercontent.com/61898376/153789342-32604b07-4df3-4a0f-b0b4-076d5b1c1db3.png)
 
@@ -33,7 +33,7 @@
 -----
 ![image](https://user-images.githubusercontent.com/61898376/153790223-c61eb704-2743-4364-91ef-ed4225541709.png)
 
-[*open Explorer1.h file >> add those line of codes *]
+[*open Explorer1.h file >> add those line of codes*]
 ```
 void Navigate(LPCTSTR URL, VARIANT * Flags, VARIANT * TargetFrameName, VARIANT * PostData, VARIANT * Headers)
 	{
